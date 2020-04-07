@@ -18,7 +18,7 @@ public class SeleniumDemo {
    @Test
     public  void initDriver() throws Exception {
 
-      System.out.println("This is a simple AutoIT demo");
+      System.out.println("This is a simple AutoIT demo - created a simple html file clicking on the browse button and giving the file name");
 
        System.setProperty("webdriver.gecko.driver","src/main/resources/geckodriver.exe");
 
